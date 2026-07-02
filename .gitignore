@@ -34,3 +34,6 @@ next-env.d.ts
 
 # recording artifacts (video source; keep gif in portfolio/)
 /portfolio/video
+
+# internal handoff notes (not for public repo)
+HANDOFF.md
